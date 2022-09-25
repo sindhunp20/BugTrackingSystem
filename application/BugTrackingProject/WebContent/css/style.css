@@ -1,0 +1,9 @@
+body{
+background-image:url('BugImage.jpg');
+}
+p{
+position: relative;
+  text-align: center;
+  color: black;
+}
+ 
